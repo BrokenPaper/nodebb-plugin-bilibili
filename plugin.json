@@ -15,6 +15,7 @@
 	],
 	"hooks": [
 		{ "hook": "filter:parse.post", "method": "parse", "callbacked": true },
+    { "hook": "filter:parse.raw", "method": "parseRaw", "callbacked": true },
 		{ "hook": "filter:scripts.get", "method": "addScripts", "callbacked": true }
 	]
 }
