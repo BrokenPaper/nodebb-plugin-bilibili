@@ -1,5 +1,4 @@
-//这两个函数干嘛用的
-//gen html
+/* //gen html
 function genBilibiliFrame(aid, cid, width, height, divid) {
   var f =
     '<iframe src="https://player.bilibili.com/player.html?aid=' +
@@ -32,3 +31,4 @@ function genBiliVideo(aid, width, height, divid) {
     }
   );
 }
+ */
